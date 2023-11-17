@@ -1,0 +1,109 @@
+body{
+    margin: 0;
+   font-family: Arial, sans-serif;
+   text-align: left; /* Center-align the text in the body */
+   
+}
+
+header {
+   background-color:  #654910; /* Add background color for the header */
+   padding: 10px; /* Add some padding for better aesthetics */
+   display: flex; /* Use flexbox to arrange children horizontally */
+   justify-content: space-between; /* Spread the children apart */
+   
+}
+
+h1 {
+   color: rgb(230, 188, 20);
+   font-size: 60px;
+   margin: 0; /* Remove default margin */
+}
+
+img{
+    float : left;
+    margin-top: 20px;
+}
+
+nav ul {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   display: flex; /* Use flexbox to display items in a row */
+   
+}
+
+nav li {
+   margin-right: 15px; /* Add spacing between navigation items */
+   padding:20px 10px;
+   font-size: 35px;
+}
+
+nav a {
+   text-decoration: none;
+   color: green; /* Set link color */
+}
+
+footer {
+   background-color: #30050b;
+   color: white;
+   text-align: center;
+   padding: 40px;
+   margin-top: 600px;
+}
+
+p1{
+    text-align: left;
+    color: rgb(13, 11, 134);
+    margin-top: 70px;
+    font-size: 60px;
+}
+
+p2{
+    font-size: 35px;
+}
+
+P3{
+    font-size: 35px
+}
+
+p4{
+    font-size:25px
+}
+
+p5{
+    font-size: 35px
+    
+}
+p6{
+    font-size: 25px
+}
+
+P7{
+    font-size: 35px
+}
+
+p8{
+    text-align: center;
+    font-size: 25px 
+}
+
+P9{
+    font-size: 35px;
+    margin-top: 50;
+}
+
+p10{
+    font-size: 25px
+}
+
+P11{
+    font-size: 35px;
+}
+
+P12{
+    font-size: 25px
+}
+
+P13{
+    font-size: 25px 
+}
